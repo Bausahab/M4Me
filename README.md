@@ -363,7 +363,7 @@ The purpose of publishing this concept is to encourage responsible development o
 
 Responsible Use
 
-The author believes that technologies capable of reasoning about human context must be developed with care and responsibility.
+I do believe that technologies capable of reasoning about human context must be developed with care and responsibility.
 
 While the architecture described here may inspire implementations, the intention behind this work is to support systems that:
 
@@ -393,4 +393,4 @@ Closing Note
 
 Ideas evolve through exploration and collaboration.
 
-By publishing this architecture openly, the author hopes to contribute a small step toward systems that better understand human needs and requirements.
+By publishing this architecture openly, the I hopes to contribute a small step toward systems that better understand human needs and requirements.
